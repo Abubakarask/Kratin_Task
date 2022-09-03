@@ -1,0 +1,43 @@
+p{
+    text-align: center;
+    margin: 0;
+    padding: 2rem;
+    background-color: blue;
+    color: whitesmoke;
+}
+
+.header{
+    font-size: larger;
+    margin-bottom: 0;
+}
+
+.container{
+    width: 600px;
+    margin: auto;
+    border: solid 2px black;
+    background-color: whitesmoke;
+}
+
+.days_container{
+    width: 600px;
+    margin: 100px auto;
+}
+
+button{
+    display: grid;
+    width: 150px;
+    margin: 1.2rem auto;
+    font-size: larger;
+    border: solid 2px black;
+    border-radius: 5px;
+    padding: 5px;
+    
+}
+
+button:hover{
+    background-color: #ff80b4;
+    color: black;
+    border: 2px solid black;
+    box-shadow: 0px 0px 32px -12px #ff80b4;
+    cursor: pointer;
+}

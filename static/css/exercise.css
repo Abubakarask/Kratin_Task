@@ -1,0 +1,45 @@
+h2{
+    text-align: center;
+}
+
+h3{
+    color: red;
+    text-align: center;
+}
+
+.container{
+    border: solid 1px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    height: 80vh;
+}
+
+.main{
+    padding: 20px;
+    width: 650px;
+    border: solid 2px black;
+    /* margin-left: 200px; */
+    font-size: x-large;
+}
+
+.avoid{
+    width: 400px;
+    border: solid 2px black;
+    margin-left: 78px;
+    font-size: large;
+}
+
+#alignleft{
+    float: left;
+}
+
+#alignright{
+    float: right;
+}
+
+img{
+    float: right;
+    width: 350px;
+}
