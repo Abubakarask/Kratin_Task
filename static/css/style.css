@@ -1,14 +1,28 @@
-p{
+a{
+    text-decoration: none;
+    float: right;
+    position: relative;
+    top: -1.8rem;
+    right: -2rem;
+}
+
+
+.header{
     text-align: center;
     margin: 0;
     padding: 2rem;
     background-color: blue;
     color: whitesmoke;
-}
-
-.header{
     font-size: larger;
     margin-bottom: 0;
+    border: solid 2px black;
+}
+
+.footer{
+    margin: 0;
+    padding: 1.5rem;
+    background-color: blue;
+    color: whitesmoke;
 }
 
 .container{
